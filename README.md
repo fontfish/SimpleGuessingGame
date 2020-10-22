@@ -8,5 +8,3 @@ I'm sure there's a similar guessing game to this in an introduction to Python
 I've read somewhere (my memory fails me), possibly also using Rumplestiltskin,
 but I did write this one from scratch.
 The class definition is based on the one in the above-linked course, though!
-
-No licence. Feel free to reuse.
